@@ -1,0 +1,42 @@
+[
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-1.png",
+		"title": "<b>24/7</b> Support.",
+		"desc": "We've got you covered. Your Theme comes with 24/7 free support wich makes sure you wont stay alone with your questions."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-2.png",
+		"title": "Detailed <b>Documentation</b>",
+		"desc": "We provide detailed documentation helping to install and manage your Theme with ease."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-3.png",
+		"title": "Elementor <b>Page Builder</b>",
+		"desc": "A truly live real-time page builder will allow you to fill your website with content page by page in a matter of minutes."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-4.png",
+		"title": "<b>Responsive Grid</b> and <b>FlexBox</b>",
+		"desc": "We used the latest Bootstrap4 grid with flexbox features to make sure your site looks same great at any device and resolution."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-5.png",
+		"title": "WordPress <b>Live Customizer</b>",
+		"desc": "Make changes to your website and see instant changes with live customizer tool."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-8.png",
+		"title": "Accent on <b>Functionality</b>",
+		"desc": "We've integrated your Theme with cool free plugins that help to create full functional business website."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-9.png",
+		"title": "<b>Ecwid</b> Ready",
+		"desc": "Create your online shop in few clicks. Your Theme supports the last version of Ecwid out of the box."
+	},
+	{
+		"image": "https://raw.githubusercontent.com/JetImpex/wizard-slides/master/images/slide-10.png",
+		"title": "Live <b>Customizer</b>",
+		"desc": "Customizer options allow to change your website dramatically&#44; make changes and see them taking effect right away!"
+	}
+]
